@@ -1,4 +1,8 @@
 # MorseCodeClicker
+<p align="center">
+  <img src="MorseCodeClicker.png">
+</p>
+
 Morse Code Clicker is a Simple Python application that converts text into Morse code and simulates the Morse code transmission using mouse clicks. The application features a graphical user interface (GUI) built with tkinter, allowing users to easily input text and trigger the Morse code clicking sequence, You can use it for Hamster Kombat game on telegram.
 
 ## Features
